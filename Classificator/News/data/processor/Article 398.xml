@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/ces-amd-predstavila-mobilnuyu-seriyu-grafiki-radeon-hd-8000.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[#CES | AMD представила мобильную серию графики Radeon HD 8000]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[AMD]]></item>
+    <item type="str"><![CDATA[CES]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Десктопные платы серии Radeon HD 8000 уже поставляются OEM производителям
+Большинство секретов вокруг новейшей серии мобильных графических чипов AMD уже раскрыты, но это не помешало компании сделать сегодня официальный анонс. Предназначенные как для традиционных лэптопов, так и ультрабуков, мобильная серия Radeon HD 8000M предлагает поддержку DirectX 11.1 и является первой линейкой мобильных GPU компании, которые построены на архитектуре AMD Graphics Core Next.
+Линейка представлена моделями Radeon HD 8800M, HD 8700M, HD 8600M и HD 8500M. AMD заявила, что новые мобильные чипы серии Radeon HD 8000M уже взяли на вооружения такие компании, как Samsung и ASUS. Ни для кого не станет секретом, если о своем желании использовать эти чипы скоро выразят Dell, Lenovo и другие OEM производители.
+Пользуясь случаем, AMD также рассказала о десктопной серии графики Radeon HD 8000, объявив о том, что платы уже направляются к OEM сборщикам ПК. А ожидать первые системы, в которых используются данные графические карты мы можем уже в этом месяце.
+Источник: Engadget.com]]></text>
+</doc>

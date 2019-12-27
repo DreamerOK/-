@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/google-vypustit-sensornye-xrombuki.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Google выпустит сенсорные хромбуки]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Chrome OS]]></item>
+    <item type="str"><![CDATA[Chromebook]]></item>
+    <item type="str"><![CDATA[Google]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Позже в этом году Google собирается вывести на рынок первые хромбуки с поддержкой технологии мультитач. Это позволит Chrome OS конкурировать не только с операционной системой компании Microsoft, но также с мобильной платформой Android собственного производства, пишет газета The Wall Street Journal со ссылкой на близкие к вопросу источники.
+Обе системы, Chrome и Android, построены на ядре Linux. По словам Google, появление на рынке двух конкурирующих операционных систем поможет продвижению таких сервисов как Поиск Google и YouTube.
+Пока неясно, когда точно сенсорные хромбуки поступят в продажу и кто будет заниматься их производством. В настоящее время лэптопы на базе Chrome OS выпускают компании Samsung и Acer.
+Представитель компании Google отказался давать какие-либо комментарии на этот счет.
+Источник: wsj.com]]></text>
+</doc>

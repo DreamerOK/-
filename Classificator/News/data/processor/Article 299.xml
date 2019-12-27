@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/kompaniya-intel-predstavila-novye-processory-linejki-haswell.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Компания Intel представила новые процессоры линейки Haswell]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Intel]]></item>
+    <item type="str"><![CDATA[Процессоры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сегодня Intel представила 10 новых моделей процессоров Haswell, основанных на четвёртом поколении архитектуры Core.
+Новые модели процессоров охватывают довольно широкий ценовой диапазон. Во главе списка флагманский четырёхъядерный процессор Core i7-4940MX, работающий на тактовой частоте 3,1 ГГц. Желающим приобрести эту высокопроизводительную новинку придётся выложить за неё 1096 долларов. Нижнюю ценовую позицию занимает Celeron 2980U за 107 долларов.
+Флагманские процессоры предыдущего поколения обладали лишь 6 МБ кэша третьего уровня, а новое поколение Haswell повысило эту планку до 8 МБ. Чипы с маркировкой «MQ» используют графические процессоры HD 4600, а с маркировкой «HQ» — HD 5200 или Iris Pro. Остальные подробности вы можете прочесть в таблице, расположенной чуть ниже.]]></text>
+</doc>
