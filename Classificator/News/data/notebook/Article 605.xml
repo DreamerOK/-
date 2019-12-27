@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/tonkij-klient-fujitsu-futro-s900-osnovan-na-baze-dvuxyadernogo-cpu.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Тонкий клиент Fujitsu FUTRO S900 основан на базе двухъядерного CPU]]></title>
+  <keywords verify="true" type="list" auto="true"/>
+  <text verify="true" type="str" auto="true"><![CDATA[Ассортимент японской компании Fujitsu пополнился тонким клиентом FUTRO S900. Новинка основана на базе двухъядерного центрального процессора AMD G-Series G-T56N, работающего с частотой 1,6 ГГц, или одноядерного AMD G-Series G-T44R, работающего с частотой 1,2 ГГц, и укомплектована материнской платой D3003-A типоразмера mini ITX.
+В первом случае графическая подсистема представлена встроенным GPU Radeon HD 6310, во втором – видеокартой Radeon HD 6250 с 256 Мбайтами памяти. Опционально можно выбрать видеокарту NVIDIA Quadro NVS 300 LP с 512 Мбайтами памяти. Максимальный объем оперативной памяти может составлять 4 Гбайта (2 слота), но в базовой конфигурации идет только один модуль объемом 1 или 2 Гбайта.
+Габаритные размеры устройства составляют 97 x 191 x 266 миллиметров, а вес 1,3 килограмма. В наличии имеются слоты PCI-Express x1, PCI и mSATA. В описании также указаны следующие характеристики: восемь портов USB 2.0, модуль беспроводной связи Wi-Fi, два порта PS/2, порт RJ-45, а также видеовыходы DVI-I и DisplayPort.
+Работает тонкий клиент Fujitsu FUTRO S900 под управлением операционной системы eLux или Windows Embedded Standard 7.
+Источник: Fujitsu.com]]></text>
+</doc>
