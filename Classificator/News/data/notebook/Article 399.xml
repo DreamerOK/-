@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/cubox-pro-mini-pk-s-bolshimi-vozmozhnostyami.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[CuBox Pro: мини-ПК с большими возможностями]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[мини-ПК]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Компания SolidRun раскрыла свою новейшую разработку в области компьютерных технологий. Речь идет о миниатюрном компьютере с большими возможностями. Cubox Pro является обновленной версией Cubox, поставляется с 2 Гб оперативной памяти DDR3 на борту и открыт для разработчиков.
+Устройство представлено в форме куба с гранью около 5 см и весом всего 91 грамм. Cubox Pro потребляет менее 3 Вт энергии, поддерживает дистрибутивы на базе Linux, включая Ubuntu, Debian, GeeXboX, openelec.tv и даже Android.
+Компьютер без принудительного воздушного охлаждения построен на базе процессора ARM PJ4 с частотой 800 МГц, имеет инфракрасный приемник, разъем Gigabit Ethernet, SPDIF, eSata 3Gbps, два порта USB 2.0, слот для карт памяти microSD, а также поддержку вывода 1080p-видео (Full HD) через HDMI.
+Предварительные заказы на Cubox Pro принимаются на сайте SolidRun. Стоимость новинки составляет всего 160 долларов. Поставки начнутся уже в этом месяце.
+Источник: Ubergizmo.com]]></text>
+</doc>

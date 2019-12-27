@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/v-evrope-poyavilsya-samyj-deshevyj-kompyuter-stoimostyu-25.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[В Европе появился самый дешевый компьютер стоимостью $25]]></title>
+  <keywords verify="true" type="list" auto="true"/>
+  <text verify="true" type="str" auto="true"><![CDATA[Новая версия компьютера Raspberry Pi достигла европейского континента. Стоимость компьютера Raspberry Pi Model A составляет всего 25 долларов.
+Напомним, что стоимость предшественника составляла 35 долларов. Спрос на старую модель Raspberry Pi Model B был весьма неплох, за все время было реализовано более 1 миллиона единиц. Новая модель лишена порта Ethernet, что снизило энергопотребление примерно на 30 процентов. Стоит отметить, что объем оперативной памяти в модели Raspberry Pi Model A уменьшен до 256 Мбайт. Есть порт USB.
+Компьютер Raspberry Pi Model A является самым доступным в мире и представляет собой плату размером немного больше, чем платежная карта. Новинке по силам воспроизведение видео высокого разрешения 1080р. Компьютер идеально подходит для работы с документами и в Сети. Работает Raspberry Pi Model A под управлением Unix-подобных операционных систем.
+Источник: Engadget.com]]></text>
+</doc>

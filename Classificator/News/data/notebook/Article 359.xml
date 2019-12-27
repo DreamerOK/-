@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/computex-asus-transformer-book-trio-planshet-noutbuk-i-monoblok-v-odnom-lice.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[#computex | ASUS Transformer Book Trio: планшет, ноутбук и моноблок в одном лице]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Android 4.2]]></item>
+    <item type="str"><![CDATA[Asus]]></item>
+    <item type="str"><![CDATA[Computex]]></item>
+    <item type="str"><![CDATA[Windows 8]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Компания ASUS основательно подготовилась к выставке Computex 2013. Устройство под названием Transformer Book Trio является не просто планшетом, трансформируемым в ноутбук, оно еще сочетает в себе функциональные возможности настольных десктопов.
+Новинка располагает двумя предустановленными операционными системами: Windows 8 и Android 4.2. Несмотря на использование одновременно двух совершенно разных ОС, компания ASUS сделала переходы между ними максимально незаметными и плавными. К примеру, открыв страницу hi-news.ru в режиме ноутбука и настольного ПК, можно продолжить просматривать ее, переключившись в режим планшета. По словам ASUS, Transformer Book Trio обеспечивает доступ к более 700 000 приложений в магазине Google Play и 50 000 приложений в Windows Store одновременно.
+Стоит отметить, что ASUS Transformer Book Trio состоит из двух частей: планшета и стыковочной станции.
+Планшет основан на базе центрального процессора Intel Atom Z2580, работающего с частотой 2,0 ГГц и оснащен 11,6-дюймовым сенсорным экраном типа IPS с разрешением 1920 х 1080 точек. Планшет предоставляет 64 Гбайта встроенной памяти типа флеш и, по словам производителя, может проработать на одной подзарядке до 15 часов.
+Стыковочная станция построена на базе процессора Intel Core i7-4500U (Haswell) и может быть подключена к монитору вместо планшета. В ее конфигурацию входит жесткий диск объемом 750 Гбайт, батарея емкостью 33 Вт*ч и клавиатура.]]></text>
+</doc>
