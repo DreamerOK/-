@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/valve-prodemonstrirovala-rabochij-prototip-steam-machine.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Valve продемонстрировала рабочий прототип Steam Machine]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Steam]]></item>
+    <item type="str"><![CDATA[Steam Machine]]></item>
+    <item type="str"><![CDATA[Steam OS]]></item>
+    <item type="str"><![CDATA[Valve]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Steam Machine — это мощный игровой компьютер производства Valve, заточенный исключительно под игры. Первая партия этих компьютеров будет представлена уже совсем скоро. В качестве операционной системы Steam Machine будет использована Steam OS, которую также разрабатывает компания Valve.
+
+Внешний вид Steam Machine до последнего времени держали в строжайшем секрете. Инженеры компании Valve впервые продемонстрировали корпус игрового компьютера журналистам. Вы также можете увидеть на фотографиях различные рабочие прототипы Steam Controller, включая самые первые его модели со встроенными трекболами.
+
+В скором времени компания Valve собирается разослать Steam Machine 300 первым бета-тестерам, которые были выбраны из активных пользователей сервиса Steam. Если фаза бета-теста пройдёт успешно, Valve начнет полномасштабное производство. Различные сборки Steam Machine, а также рабочая версия Steam OS будут представлены уже в январе на Consumer Electronics Show в Лас-Вегасе. Пользователи, которые с недоверием относятся к Steam OS, смогут без каких-либо проблем установить на этот игровой компьютер обычную Windows, после чего использовать его для игр или для работы.
+По материалам The Verge.]]></text>
+</doc>
