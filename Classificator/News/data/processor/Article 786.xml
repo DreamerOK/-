@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/computex-2012-intel-gotovit-4-dyujmovyj-mini-kompyuter-nuc-stoimostyu-400-dollarov.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[[Computex 2012] Intel готовит 4-дюймовый мини-компьютер NUC стоимостью 400 долларов]]></title>
+  <keywords verify="true" type="list" auto="true"/>
+  <text verify="true" type="str" auto="true"><![CDATA[Компания Intel представила концепт 4-дюймового мини-компьютера NUC (Next Unit of Computing). Со слов источника, предоставившего эту информацию, Intel собирается начать массовый выпуск таких систем где-то в третьем квартале 2012 года. Стоимость NUC будет составлять 400 долларов.
+Базовая конфигурация будет включать двуядерный процессор Core i3, материнскую плату с чипсетом HM65, около 4 Гб оперативной памяти DDR3, работающей в двухканальном режиме, mSATA SSD накопитель объемом 40 Гб, поддержку Wi-Fi и Bluetooth, а также видеовыходы HDMI и mini-DisplayPort. Другими словами поначалу новинка будет выпускаться на платформе предыдущего поколения, однако возможно, что в дальнейшем компания сменит чипсет на 7 серию и будет предлагать 22 нм процессоры.
+На выставке Computex была показана система, работающая на базе процессора Core i5 «Ivy Bridge» в режиме Turbo Boost с частотой 2.70 ГГц. В продаже также появится более дешевая версия с процессором Celeron на борту.
+Источник: Techpowerup.com]]></text>
+</doc>
