@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Сервис проверки текста</title>
+	<style>
+		body {background: url({% static "background.jpg" %});}
+	</style>
+</head>
+<body>
+
+	<p><img src="{% static "head.png" %}" width="390" height="68"></p>
+	<h2 style="font-family: Impact">Новости</h2>
+	<p>Колличество новостей: {{ newsCount }}</p>
+	<h4 style="font-family: Impact">Категории новостей:</h4>
+	<div>
+		{% for textClass in textClasses %}
+			<li><a href="/news/{{ textClass.eng }}">{{ textClass.rus }}</a></li>
+		{% endfor %}
+	</div>
+</body>
+</html>

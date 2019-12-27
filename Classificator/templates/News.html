@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Сервис проверки текста</title>
+	<style>
+		body {background: url({% static "background.jpg" %});}
+	</style>
+</head>
+<body>
+
+	<p><img src="{% static "head.png" %}" width="390" height="68"></p>
+	<h2 style="font-family: Impact">{{ title }}</h2>
+	<p>{{ text }}</p>
+</body>
+</html>

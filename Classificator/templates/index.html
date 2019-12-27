@@ -2,17 +2,18 @@
 {% load staticfiles %}
 <html>
 <head>
-<meta charset="utf-8" />
-<title>Сервис проверки текста</title>
-<style>
-body {background: url({% static "Фон.jpg" %});}
-</style>
+	<meta charset="utf-8" />
+	<title>Сервис проверки текста</title>
+	<style>
+		body {background: url({% static "background.jpg" %});}
+	</style>
 </head>
 <body>
 
-<p><img src="{% static "Шапка сайта.png" %}" width="390" height="68"></p>
+	<p><img src="{% static "head.png" %}" width="390" height="68"></p>
 
-<h1 style="font-family: Impact">Сервис определения класса текста.</h1>
-<span style="font-family: Impact"> Перейти к <a href="/classifier">классификатору.</a></span>
+	<h1 style="font-family: Impact">Сервис определения класса текста.</h1>
+	<p><span style="font-family: Impact"> Перейти к <a href="/classifier">классификатору.</a></span>	  </p>
+	<p><span style="font-family: Impact"> Перейти к <a href="/news/category">новостям.</a></span></p>
 </body>
 </html>
