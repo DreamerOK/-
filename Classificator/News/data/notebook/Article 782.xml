@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/v-prodazhe-poyavilsya-mini-pk-via-apc-na-baze-android.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[В продаже появился мини-ПК VIA APC на базе Android]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Материнские платы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Компания VIA Technologies официально объявила о выходе на рынок миниатюрного компьютера APC форм-фактора Neo-ITX, нацеленного на создание мобильных систем, основанных на базе операционной системы Android. Устройство уже доступно для предварительного заказа, а его стоимость составляет 49 долларов.
+Новинка оснащена одноядерным процессором, работающим на частоте 800 МГц, 512 МБ оперативной памяти, 2 ГБ памяти типа флэш, портами USB и разъемом HDMI. В руки пользователей устройство попадет уже в начале июля. Платформа оснащена внешним разъемом питания DC и внутренним ATX и совместима с компьютерными корпусами форм-фактора ITX и ATX.
+Источник: Techpowerup.com]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/hp-pavilion-dv6-obzavelsya-processorom-trinity.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[HP Pavilion dv6 обзавелся процессором Trinity]]></title>
+  <keywords verify="true" type="list" auto="true"/>
+  <text verify="true" type="str" auto="true"><![CDATA[HP представила новый вариант своего 15.6-дюймового ноутбука Pavilion dv6 — работающего на базе четырехъядерного процессора AMD A8-4500M (модельный номер dv6-7010us). A8-4500M использует четыре x86-64 ядра с частотой 1.90~2.80 ГГц, 4 Мб общего кэша и предлагает интегрированную графическую карту Radeon HD 7640G.
+Ноутбук предлагает 6 Гб двухканальной оперативной памяти DDR3, жесткий диск объемом 750 Гб, оптический привод DVD SuperMulti, гигабитный сетевой адаптер, а также модули 802.11 b/g/n WLAN и Bluetooth. Все остальные характеристики идентичны модели dv6t-7000, работающей на базе процессора Intel. Разрешение 15.6-дюймового экрана данной модели составляет 1366 x 768 пикселей.
+В то время как модель dv6t-7000, работающая на базе процессора Core i7-3610QM предлагается от 899 долларов, цена на модель dv6-7010us с процессором AMD A8-4500M начинается от 699 долларов.
+Источник: Laptopreviews.com]]></text>
+</doc>
