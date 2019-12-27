@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/noutbuk-eurocom-panther-3-0-obzavelsya-videokartoj-nvidia-quadro-k5000m.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Ноутбук EUROCOM Panther 3.0 обзавелся видеокартой NVIDIA Quadro K5000M]]></title>
+  <keywords verify="true" type="list" auto="true"/>
+  <text verify="true" type="str" auto="true"><![CDATA[Канадская компания Eurocom, которая занимается созданием ноутбуков, способных полностью заменить мощнейшие настольные компьютеры, обновила конфигурацию ноутбука Panther 3.0. Теперь в качестве графической подсистемы пользователи смогут использовать видеокарту NVIDIA Quadro K5000M, которая в тандеме с процессором Intel Xeon Processor X5690 может предложить пользователям сверхпроизводительность.
+Графический адаптер NVIDIA Quadro K5000M основан на базе 28-нанометрового GPU микроархитектуры Кepler которое включает в себя 1344 ядер CUDA, 4 ГБ памяти типа GDDR5, а также 256-битный интерфейс памяти. Видеокарта поддерживает стандарты DirectX 11 и Shader Model 5.0, а также фирменные технологии NVIDIA: стереоскопическая картинка 3D Vision, реалистичная физика PhysX, параллельные вычисления CUDA, а также ускоренное декодирование видео PureVideo HD. Ноутбук «вооружен» 24 ГБ оперативной памяти типа DDR3-1333 или DDR3-1600. Подсистема хранения представлена четырьмя жесткими дисками или твердотельными накопителями, общий объем которых составляет до 4 ТБ. Их можно объединить в массив RAID 0/1/5/10.
+Видеокарта NVIDIA Quadro K5000M станет лучшей напарницей при работе с такими приложениями как Adobe Creative Suite 5.5, Autodesk 3DS Max, Autodesk Autocad 2011, Autodesk Inventor 2012, Avid Media Composer, Dassault Catia, Dassault Solidworks, Siemens X, ANSYS, MATLAB, Dassault Simulia и другими.
+Источник: Techpowerup.com]]></text>
+</doc>
