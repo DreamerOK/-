@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/istoriya-pervogo-kompyutera-macintosh-kotoryj-stoit-v-shtab-kvartire-microsoft.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[История первого компьютера Macintosh, который стоит в штаб-квартире Microsoft]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Apple]]></item>
+    <item type="str"><![CDATA[Microsoft]]></item>
+    <item type="str"><![CDATA[История]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Не так давно мы рассказывали историю первых визитных карточек Билла Гейтса и Пола Аллена, которые хранятся в выставочном зале штаб-квартиры Microsoft доступном для посещения. В этом же зале есть еще кое-что достойное внимания – оригинальный компьютер Apple Macintosh. Он тоже оказался там не случайно. У этого есть своя история.
+Увидеть компьютер от Apple в выставочном зале Microsoft достаточно странно. Apple и Microsoft всегда соперничали. Тем не менее есть веская причина для того, чтобы Microsoft разместила его там. Вполне возможно, что компания не добилась бы своего успеха, если бы не этот компьютер.
+Macintosh стал первым компьютером с графическим пользовательским интерфейсом. Создавая его, Стив Джобс был вынужден обратиться к Биллу Гейтсу за программным обеспечением для компьютера. Macintosh вышел в 1984 году с первыми версиями программ Excel и PowerPoint. По сути, Microsoft Office 1.0 был создан для Mac. Однажды Билл Гейтс сказал, что в Microsoft над Macintosh трудилось больше людей, чем в Apple.
+В 1985 году Microsoft объявила о создании операционной системы Windows с графическим пользовательским интерфейсом. Стив Джобс очень обиделся на это, но компания не считала, что Apple обладает эксклюзивными правами на идею. Всем известно, что Джобс и Гейтс взяли идею у Xerox PARC. Именно с этого момента и началась вражда Apple и Microsoft.
+Тем не менее невозможно отрицать, что пакет Microsoft Office, один из самых успешных продуктов компании, родился именно на компьютере от Apple. Macintosh заслужил свое место в штаб-квартире Microsoft.]]></text>
+</doc>
