@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/etointeresno-samye-moshhnye-superkompyutery.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[#этоинтересно | Самые мощные суперкомпьютеры]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Суперкомпьютеры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сегодня мы с радостью представляем вашему вниманию 65-й выпуск передачи #этоинтересно, в котором поговорим на тему самых мощных суперкомпьютеров современности. Приятного просмотра!]]></text>
+</doc>
