@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/patchi-ot-uyazvimostej-spectre-i-meltdown-dlya-windows-lomayut-kompyutery-s-amd.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Патчи от уязвимостей Spectre и Meltdown для Windows «ломают» компьютеры с AMD]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[AMD]]></item>
+    <item type="str"><![CDATA[Microsoft]]></item>
+    <item type="str"><![CDATA[Земля]]></item>
+    <item type="str"><![CDATA[Процессоры]]></item>
+    <item type="str"><![CDATA[Уязвимость]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Корпорация Microsoft выпустила обновления безопасности, устраняющие уязвимости Meltdown и Spectre, которые затрагивают почти все процессоры, выпущенные с 1995 года, но вынуждена была отозвать их из-за жалоб пользователей устройств на базе процессоров AMD — после установки патча KB4056892 компьютеры просто переставали загружаться.
+Патч был отозван после того, как на форуме Microsoft отметили, что после установки патча система перестаёт работать, «зависая» на заставке с логотипом Windows.
+Процессоры AMD уязвимы лишь к атакам Spectre, которая позволяет злоумышленникам повысить привилегии в системе, после чего получить доступ к данным приложений, запущенных другими пользователями. К счастью, AMD не подвержены уязвимости Meltdown, затрагивающей в том числе и ядро.
+Сейчас Microsoft не высылает обновлений на компьютеры, работающие под AMD, попутно пытаясь проблему вместе с разработчиками оборудования. Тем, чьё оборудование затронуло неудачное обновление, рекомендуют обратиться на форумы поддержки Microsoft, обещая помочь вернуть компьютеры в рабочее состояние.]]></text>
+</doc>
