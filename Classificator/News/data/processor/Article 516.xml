@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/technology/nuance-i-intel-rabotayut-na-golosovym-assistentom-dlya-ultrabukov.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Nuance и Intel работают на голосовым ассистентом для ультрабуков]]></title>
+  <keywords verify="true" type="list" auto="true"/>
+  <text verify="true" type="str" auto="true"><![CDATA[Компании Intel и Nuance объединившись, ведут работу над голосовой технологией для ультрабуков. Основой для работы стала бета-версия голосового ассистента Dragon Assistant от Nuance.
+Приложение позволяет задавать для ультрабука голосовые команды. Например, таким образом можно будет проверить почту, погулять по Сети, ответить на звонок в Skype и так далее.
+Первым ультрабуком, который получит поддержку данной технологии станет Dell XPS 13, чей релиз должен состояться этой осенью. Помимо этого Nuance собирается выпустить для разработчиков специальный SDK, который поможет интегрировать поддержку технологии в их приложения.
+Источник: Engadget.com]]></text>
+</doc>

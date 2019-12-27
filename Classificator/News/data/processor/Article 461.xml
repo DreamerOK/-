@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/amd-pokazala-sistemu-na-baze-a10-5700-s-passivnoj-so.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[AMD показала систему на базе A10-5700 с пассивной СО]]></title>
+  <keywords verify="true" type="list" auto="true"/>
+  <text verify="true" type="str" auto="true"><![CDATA[AMD и ASUS объединив усилия, решили показать в Японии концепт HTPC с полностью пассивной системой охлаждения. Десктоп собран в корпусе Streacom FC5, который сам выступает в роли в СО для комплектующих внутри.
+Процессор охлаждается специальным блоком, один конец которого устанавливается на процессор, а второй — крепится к стенке корпуса. Система была построена на базе процессора AMD A10-5700, материнской платы ASUS F2A85-M Pro на основе чипсета AMD A85X форм-фактора micro-ATX, использует 8 Гб оперативной памяти DDR3-1866 МГц c сертификатом AMD, а также SSD накопитель Corsair Force GT.
+Концепт системы был построен для того, чтобы показать, что APU AMD «Trinity» действительно подходят для постройки тихого HTPC.
+Источник: Fanlesstech.com]]></text>
+</doc>
