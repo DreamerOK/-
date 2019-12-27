@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/mini-kompyuter-intel-nuc-kompaktnee-chem-apple-mac-mini.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мини-компьютер Intel NUC: компактнее, чем Apple Mac Mini]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Apple]]></item>
+    <item type="str"><![CDATA[Intel]]></item>
+    <item type="str"><![CDATA[Mac mini]]></item>
+    <item type="str"><![CDATA[мини-ПК]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мини-ПК Intel NUC (Next Unit of Computing), анонсированный в ходе выставки Computex 2012, появится в продаже в начале декабря текущего года, его стоимость составит от 300 до 320 долларов. Габариты новинки равны 10,16 х 10,16 х 5,08 сантиметра (ширина х глубина х высота). Для сравнения, габаритные размеры Apple Mac mini составляют 19,7 х 19,7 х 3,6 сантиметра.
+Мини-ПК Intel NUC основан на базе материнской платы на чипсете Intel QS77 Express, которая работает в тандеме с двухъядерным процессором Intel Core i3-3217U (1,8 ГГц). Для установки оперативной памяти типа DDR3 предусмотрено два слота SO-DIMM. Максимальный объем оперативной памяти может составить 8 Гбайт. Твердотельный накопитель может быть установлен в слот mSATA.
+В продаже будут доступны две модификации мини-ПК Intel NUC: DC3217IYE и DC3217BY. В перечне характеристик первой присутствуют два видеовыхода HDMI, три порта USB 2.0 и сетевой адаптер Ethernet. Модель DC3217BY может похвастать высокоскоростным портом Thunderbolt, но количество видеовыходов ограничивается одним HDMI. Остальные спецификации идентичны.
+
+
+Источник: Аnandtech.com]]></text>
+</doc>
