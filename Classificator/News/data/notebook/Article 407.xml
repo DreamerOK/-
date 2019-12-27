@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/dell-vypustila-novyj-ubuntu-leptop-dlya-razrabotchikov.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Dell выпустила новый Ubuntu-лэптоп для разработчиков]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Dell]]></item>
+    <item type="str"><![CDATA[Ubuntu]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Dell запустила в продажу новую версию лэптопа XPS 13 Developer Edition, теперь под управлением Ubuntu 12.04. Новинка рассчитана на разработчиков, которые желают иметь под рукой “все необходимое для работы”.
+XPS 13 оборудован 13,3-дюймовым дисплеем с разрешением 1366х768 пикселей, процессором Intel Core i7-3517U на 3 ГГц и 8 Гб оперативной памяти. Также используется видеокарта Intel HD 4000, SSD-накопитель объемом 256 Гб, 6-ячеистая батарея и звук Waves Maxx Audio 4.0. Весит лэптоп 1,35 кг. В комплектацию входит годовая подписка на услугу ProSupport (техническая поддержка программного обеспечения). Продление платное.
+Корпус XPS 13 изготовлен из углеродного волокна и алюминия с использованием стекла Gorilla Glass. Толщина самой тонкой части корпуса достигает 6 мм. Стоимость мобильной машины составляет 1549 долларов – на 50 долларов дороже своей Windows-версии.
+Источник: Slashgear.com]]></text>
+</doc>

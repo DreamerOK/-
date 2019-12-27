@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/philips-vypustila-intellektualnyj-27-amva-displej.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[Philips выпустила интеллектуальный 27″ AMVA-дисплей]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Philips]]></item>
+    <item type="str"><![CDATA[Мониторы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Компания Philips представила новый компьютерный монитор с диагональю экрана 27 дюймов. Особенностью модели является AMVA-панель (Advanced Multi-domain Vertical Alignment) и датчик присутствия, который автоматически регулирует уровень яркости экрана в зависимости от расстояния до пользователя.
+Philips 271P4QPJKEB/00 имеет заднюю W-LED-подсветку экрана, разрешение 1920 x 1080 пикселей, обзорность 178/178 градусов, скорость отклика 6 мс (GtG), яркость 300 cd/m2 и контрастность 5000:1 (динамическая контрастность составляет 20 000 000:1). Дополнительно отмечаются два встроенных 2-ваттных динамика, разъем USB 2.0 в количестве 3 штук, камера с датчиком на 2.0 мегапикселя, D-Sub, DVI, HDMI и DisplayPort.
+Стоимость 27-дюймового монитора Philips AMVA 271P4QPJKEB/00 составляет 400 евро (517 долларов).
+Источник: Techpowerup.com]]></text>
+</doc>
