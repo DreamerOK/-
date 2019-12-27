@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://hi-news.ru/computers/novosti-vysokix-texnologij-vypusk-238.html]]></source>
+  <category verify="true" type="str" auto="true"><![CDATA[Компьютеры]]></category>
+  <title verify="true" type="str" auto="true"><![CDATA[#новости высоких технологий | Выпуск 238]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Высокие технологии]]></item>
+    <item type="str"><![CDATA[Криптовалюта]]></item>
+    <item type="str"><![CDATA[Майнинг]]></item>
+    <item type="str"><![CDATA[Роботы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Каждый понедельник в новом выпуске «Новостей высоких технологий» мы подводим итоги прошедшей недели, говорим о самых значимых и важных событиях, ключевых открытиях и интересных изобретениях. На этот раз речь пойдет о зубной щетке для майнинга, летающей роболисице и многом другом! Приятного просмотра!]]></text>
+</doc>
